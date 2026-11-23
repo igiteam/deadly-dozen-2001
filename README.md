@@ -1,5 +1,5 @@
 # deadly-dozen-2001
-## World War 2 Combat Road to Berlin
+## Deadly Dozen 2001
 Deadly Dozen is a 2001 squad-based tactical shooter developed by nFusion Interactive and published by Infogrames. 
 
 ## Github Treeview
