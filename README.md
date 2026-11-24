@@ -1,6 +1,6 @@
 # ghost-recon-advanced-warfighter-2006-deadly-dozen-2001
 ## Ghost Recon Advanced Warfighter 2006 - Deadly Dozen 2001 Remake
-Deadly Dozen is a 2001 squad-based tactical shooter developed by nFusion Interactive and published by Infogrames. 
+A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon Advanced Warfighter** (2006) engine — Deadly Dozen's WWII squad raids running on GRAW's squad AI, cover system, and PhysX physics.
 
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001](https://treegit.macosxjs.com/?url=igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
