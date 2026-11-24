@@ -38,6 +38,8 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 [https://archive.org/details/nvidia-phys-x-for-autodesk-maya-2017](https://archive.org/details/nvidia-phys-x-for-autodesk-maya-2017)
 
+[![GPU PhysX in Ghost Recon Advanced Warfighter 2](https://img.youtube.com/vi/5KHakdkKQH4/hqdefault.jpg)](https://ytembed.macosxjs.com/?NUtIYWtka0tRSDQ)
+
 [![GRAW 2 modo physx extreme](https://img.youtube.com/vi/Bpd211n87YY/hqdefault.jpg)](https://ytembed.macosxjs.com/?QnBkMjExbjg3WVk)
 
 [![GRAW2 Ageia Physx demo 3](https://img.youtube.com/vi/46MustVBcpI/hqdefault.jpg)](https://ytembed.macosxjs.com/?NDZNdXN0VkJjcEk)
@@ -45,8 +47,6 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 [![Ageia Physx](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/blob/main/ageia_physx.jpg?raw=true)](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/blob/main/ageia_physx.jpg?raw=true)
 
 [![Nvidia Physx](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)
-
-[![GPU PhysX in Ghost Recon Advanced Warfighter 2](https://img.youtube.com/vi/5KHakdkKQH4/hqdefault.jpg)](https://ytembed.macosxjs.com/?NUtIYWtka0tRSDQ)
 
 here is the legacy driver for physx that specifically mentions getting GRAW 1 to work... 
 physx-9-13-0604-legacy-driver/
