@@ -38,7 +38,7 @@ Deadly Dozen is a 2001 squad-based tactical shooter developed by nFusion Interac
 
 [![Deadly Dozen 2001](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/Deadly_Dozen_Coverart.png)](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
-[![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/grawpc-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png](https://archive.org/details/graw-pc)
+[![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png](https://archive.org/details/graw-pc)
 
 ## Dev Environment
 
