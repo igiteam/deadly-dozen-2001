@@ -36,9 +36,15 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 [![GRAW2 Ageia Physx demo 3](https://img.youtube.com/vi/46MustVBcpI/hqdefault.jpg)](https://ytembed.macosxjs.com/?NDZNdXN0VkJjcEk)
 
+[![Ageia Physx](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/blob/main/ageia_physx.jpg?raw=true)](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/blob/main/ageia_physx.jpg?raw=true)
+
+[![Nvidia Physx](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)
+
+[![Nvidia GT8800 GRAW](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/asus_gf8800_pic3.jpg)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/asus_gf8800_pic3.jpg)
+
 [![Deadly Dozen 2001](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/Deadly_Dozen_Coverart.png)](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
-[![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png](https://archive.org/details/graw-pc)
+[![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png)](https://archive.org/details/graw-pc)
 
 ## Dev Environment
 
