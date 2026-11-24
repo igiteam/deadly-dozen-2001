@@ -26,6 +26,8 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 ## Reference Links
 [https://archive.org/details/graw-pc](https://archive.org/details/graw-pc)
 
+[https://archive.org/download/ghost-recon-advanced-warfighter-2](https://archive.org/download/ghost-recon-advanced-warfighter-2)
+
 [https://web.archive.org/web/20071201003502/http://www.ghostrecon.net/modder/index.php?option=com_content&task=view&id=25&Itemid=77](https://web.archive.org/web/20071201003502/http://www.ghostrecon.net/modder/index.php?option=com_content&task=view&id=25&Itemid=77)
 
 [https://web.archive.org/web/20071026063324/http://www.ghostrecon.net/files2/index.php?act=category&id=26](https://web.archive.org/web/20071026063324/http://www.ghostrecon.net/files2/index.php?act=category&id=26)
@@ -44,11 +46,39 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 [![Nvidia Physx](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/nvidia_physx.jpg)
 
+[![GPU PhysX in Ghost Recon Advanced Warfighter 2](https://img.youtube.com/vi/5KHakdkKQH4/hqdefault.jpg)](https://ytembed.macosxjs.com/?NUtIYWtka0tRSDQ)
+
+here is the legacy driver for physx that specifically mentions getting GRAW 1 to work... 
+physx-9-13-0604-legacy-driver/
+[https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/tag/physx](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/tag/physx)
+
+[https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysXLoader.dll](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysXLoader.dll)
+This re-enables most of the PhysX effects in GRAW 1, which are automatically disabled if you didn't have a PhysX PPU installed. These effects did not work with Nvidia PhysX GPUs, even back in the day.  90% of the effects are reenabled and run on the CPU, except for a fluid simulation effect which is disabled. This is a similar fix to the Cellfactor Revolution PhysX fix. Just drag and drop the .dll file into the game's directory with the exe and overwrite. Ensure the PhysX legacy driver is installed.
+
+Driver 591.44 enables 32-bit PhysX Support for select titles below for 50-Series GPU. This does not impact 40 series or below as they support 32 bit PhysX (and CUDA)
+GeForce Game Ready Driver 591.44 | Windows 11
+
+
+
+| Game | Release Date | Physics Hardware | Architecture | Physics Features |
+|---|---|---|---|---|
+| Tom Clancy's Ghost Recon Advanced Warfighter | May 3, 2006 | PPU | 32-bit | Debris simulation |
+| Tom Clancy's Ghost Recon Advanced Warfighter 2 | June 28, 2007 | GPU or PPU | 32-bit | Debris simulation, dynamic tearable cloth, dynamic tree and plant simulation, particle effects, additional level with destructible environments |
+
+
 [![Nvidia GT8800 GRAW](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/asus_gf8800_pic3.jpg)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/asus_gf8800_pic3.jpg)
+
+| PhysX 1 | PhysX 2 | PhysX 3 | PhysX 4 | PhysX 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| ![PhysX 1](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/physx1.png) | ![PhysX 2](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/physx2.png) | ![PhysX 3](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/physx3.png) | ![PhysX 4](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/physx4.png) | ![PhysX 5](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/physx5.png) |
+
 
 [![Deadly Dozen 2001](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/Deadly_Dozen_Coverart.png)](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
 [![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png)](https://archive.org/details/graw-pc)
+
+[![GRAW Gamepad](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/graw-gamepad-support.png)](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/graw-gamepad-support.png)
+
 
 ## Dev Environment
 
