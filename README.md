@@ -11,7 +11,7 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 ## Base of the gameplay
 [![Deadly Dozen 2001](https://img.youtube.com/vi/aiUNPVVqfdU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YWlVTlBWVnFmZFU)
 
-[![Tom Clancy's Ghost Recon Advanced Warfighter](https://img.youtube.com/vi/VkjGLqXlTk4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VmtqR0xxWGxUazQ)
+[![Tom Clancy's Ghost Recon Advanced Warfighter](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/graw-ingame.png)](https://ytembed.macosxjs.com/?VmtqR0xxWGxUazQ)
 
 [![Tom Clancy's Ghost Recon Advanced Warfighter](https://img.youtube.com/vi/9pDOcI4wtUY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OXBET2NJNHd0VVk)
 
@@ -25,6 +25,10 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 ## Reference Links
 [https://archive.org/details/graw-pc](https://archive.org/details/graw-pc)
+
+[https://web.archive.org/web/20071201003502/http://www.ghostrecon.net/modder/index.php?option=com_content&task=view&id=25&Itemid=77](https://web.archive.org/web/20071201003502/http://www.ghostrecon.net/modder/index.php?option=com_content&task=view&id=25&Itemid=77)
+
+[https://web.archive.org/web/20071026063324/http://www.ghostrecon.net/files2/index.php?act=category&id=26](https://web.archive.org/web/20071026063324/http://www.ghostrecon.net/files2/index.php?act=category&id=26)
 
 [https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
