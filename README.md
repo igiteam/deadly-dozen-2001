@@ -57,7 +57,7 @@ This re-enables most of the PhysX effects in GRAW 1, which are automatically dis
 
 Driver 591.44 enables 32-bit PhysX Support for select titles below for 50-Series GPU. This does not impact 40 series or below as they support 32 bit PhysX (and CUDA)
 GeForce Game Ready Driver 591.44 | Windows 11
-
+[https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/591.44-desktop-win10-win11-64bit-international-dch-whql.exe](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/591.44-desktop-win10-win11-64bit-international-dch-whql.exe)
 
 
 | Game | Release Date | Physics Hardware | Architecture | Physics Features |
