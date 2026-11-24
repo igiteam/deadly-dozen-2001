@@ -1,15 +1,19 @@
-# deadly-dozen-2001
-## Deadly Dozen 2001
+# ghost-recon-advanced-warfighter-2006-deadly-dozen-2001
+## Ghost Recon Advanced Warfighter 2006 - Deadly Dozen 2001 Remake
 Deadly Dozen is a 2001 squad-based tactical shooter developed by nFusion Interactive and published by Infogrames. 
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/deadly-dozen-2001](https://treegit.macosxjs.com/?url=igiteam/deadly-dozen-2001)
+[https://treegit.macosxjs.com/?url=igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001](https://treegit.macosxjs.com/?url=igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/deadly-dozen-2001/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/deadly-dozen-2001/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/git/trees/main?recursive=1)
 
 ## Base of the gameplay
 [![Deadly Dozen 2001](https://img.youtube.com/vi/aiUNPVVqfdU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YWlVTlBWVnFmZFU)
+
+[![Tom Clancy's Ghost Recon Advanced Warfighter](https://img.youtube.com/vi/VkjGLqXlTk4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VmtqR0xxWGxUazQ)
+
+[![Tom Clancy's Ghost Recon Advanced Warfighter](https://img.youtube.com/vi/9pDOcI4wtUY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OXBET2NJNHd0VVk)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -20,11 +24,21 @@ Deadly Dozen is a 2001 squad-based tactical shooter developed by nFusion Interac
 
 
 ## Reference Links
-[https://archive.org/details/deadly-dozen-2001](https://archive.org/details/deadly-dozen-2001)
+[https://archive.org/details/graw-pc](https://archive.org/details/graw-pc)
 
-[![Deadly Dozen 2001](https://raw.githubusercontent.com/igiteam/deadly-dozen-2001/refs/heads/main/Deadly_Dozen_Coverart.png)](https://archive.org/details/deadly-dozen-2001)
+[https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
 
+[https://archive.org/details/nvidia-apex-sdk-udk](https://archive.org/details/nvidia-apex-sdk-udk)
 
+[https://archive.org/details/nvidia-phys-x-for-autodesk-maya-2017](https://archive.org/details/nvidia-phys-x-for-autodesk-maya-2017)
+
+[![GRAW 2 modo physx extreme](https://img.youtube.com/vi/Bpd211n87YY/hqdefault.jpg)](https://ytembed.macosxjs.com/?QnBkMjExbjg3WVk)
+
+[![GRAW2 Ageia Physx demo 3](https://img.youtube.com/vi/46MustVBcpI/hqdefault.jpg)](https://ytembed.macosxjs.com/?NDZNdXN0VkJjcEk)
+
+[![Deadly Dozen 2001](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/Deadly_Dozen_Coverart.png)](https://archive.org/details/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001)
+
+[![GRAW 2006 PC](https://raw.githubusercontent.com/igiteam/grawpc-deadly-dozen-2001/refs/heads/main/ghost-recon-advanced-warfighter-2006.png](https://archive.org/details/graw-pc)
 
 ## Dev Environment
 
