@@ -50,7 +50,7 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 here is the legacy driver for physx that specifically mentions getting GRAW 1 to work... 
 physx-9-13-0604-legacy-driver/
-[https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/tag/physx](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/tag/physx)
+[https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysX-9.13.0604-SystemSoftware-Legacy.msi](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysX-9.13.0604-SystemSoftware-Legacy.msi)
 
 [https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysXLoader.dll](https://github.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/releases/download/physx/PhysXLoader.dll)
 This re-enables most of the PhysX effects in GRAW 1, which are automatically disabled if you didn't have a PhysX PPU installed. These effects did not work with Nvidia PhysX GPUs, even back in the day.  90% of the effects are reenabled and run on the CPU, except for a fluid simulation effect which is disabled. This is a similar fix to the Cellfactor Revolution PhysX fix. Just drag and drop the .dll file into the game's directory with the exe and overwrite. Ensure the PhysX legacy driver is installed.
