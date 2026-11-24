@@ -13,7 +13,7 @@ A total conversion that rebuilds *Deadly Dozen* (2001) inside the **Ghost Recon 
 
 [![Tom Clancy's Ghost Recon Advanced Warfighter](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/graw-ingame.png)](https://ytembed.macosxjs.com/?VmtqR0xxWGxUazQ)
 
-[![Tom Clancy's Ghost Recon Advanced Warfighter](https://img.youtube.com/vi/9pDOcI4wtUY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OXBET2NJNHd0VVk)
+[![Tom Clancy's Ghost Recon Advanced Warfighter](https://raw.githubusercontent.com/igiteam/ghost-recon-advanced-warfighter-2006-deadly-dozen-2001/refs/heads/main/graw-sliding.png)](https://ytembed.macosxjs.com/?OXBET2NJNHd0VVk)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
